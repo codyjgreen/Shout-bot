@@ -22,7 +22,6 @@
   "engines": {
     "node": "0.10.x"
   },
-
   "main": "index.js",
   "devDependencies": {},
   "repository": {
