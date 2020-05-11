@@ -22,7 +22,16 @@
   "engines": {
     "node": "0.10.x"
   },
-  "scripts": {
-    "run": "HUBOT_SLACK_TOKEN=xoxb-1121056537553-1107056305045-sAiz0uvmugZWiv8oUQWxQyQq ./bin/hubot --adapter slack"
-  }
+
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyjgreen/Shout-bot.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyjgreen/Shout-bot/issues"
+  },
+  "homepage": "https://github.com/codyjgreen/Shout-bot#readme"
 }
